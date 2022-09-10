@@ -4,7 +4,7 @@ body {
   font-family: monospace, Georgia, Arial, Helvetica;
   margin: 2% 2%;
   color: #111;
-  padding: 0 100px;
+  padding: 0 5%;
   font-size: 145%;
   line-height: 1.2;
 }
@@ -29,12 +29,12 @@ a:hover, a:active {
 }
 
 #menu ul {
-  padding-left: 30px;
+  padding-left: 73%;
   display: inline;
 }
 
 #menu li {
-  padding-left: 20px;
+  padding-left: 1%;
   display: inline-block;
 }
 
@@ -43,7 +43,7 @@ nav {
 }
 
 #post-list {
-  padding-left: 0px;
+  padding-left: 0%;
 }
 #post-list li {
   list-style: none;
@@ -54,10 +54,11 @@ nav {
 }
 
 #content {
-  padding-top: 40px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
   background-color: #ebebeb;
+  min-height: 100vh;
 }
 
 .entry-content a {
@@ -66,5 +67,5 @@ nav {
 }
 
 .lastmod {
-  padding-top: 40px;
+  padding-top: 2%;
 }
