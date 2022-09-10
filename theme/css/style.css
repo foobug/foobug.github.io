@@ -1,0 +1,70 @@
+/* foosel - pelican theme */
+
+body {
+  font-family: monospace, Georgia, Arial, Helvetica;
+  margin: 2% 2%;
+  color: #111;
+  padding: 0 100px;
+  font-size: 145%;
+  line-height: 1.2;
+}
+
+a:link, a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: #111;
+  text-decoration: underline;
+}
+
+.active a:link, .active a:visited {
+  color:#ffffff;
+  background:#363636;
+ }
+
+#banner h1 {
+  display: inline;
+}
+
+#menu ul {
+  padding-left: 30px;
+  display: inline;
+}
+
+#menu li {
+  padding-left: 20px;
+  display: inline-block;
+}
+
+nav {
+  display: inline;
+}
+
+#post-list {
+  padding-left: 0px;
+}
+#post-list li {
+  list-style: none;
+}
+
+#date {
+  display:inline-block;
+}
+
+#content {
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #ebebeb;
+}
+
+.entry-content a {
+  color: green;
+  text-decoration: underline;
+}
+
+.lastmod {
+  padding-top: 40px;
+}
