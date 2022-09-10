@@ -24,6 +24,23 @@ a:hover, a:active {
   background:#363636;
  }
 
+#content {
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: #ebebeb;
+  min-height: 100vh;
+}
+
+.entry-content a {
+  color: green;
+  text-decoration: underline;
+}
+
+.lastmod {
+  padding-top: 2%;
+}
+
 #banner h1 {
   display: inline;
 }
@@ -43,29 +60,13 @@ nav {
 }
 
 #post-list {
-  padding-left: 0%;
+
 }
+
 #post-list li {
   list-style: none;
 }
 
 #date {
   display:inline-block;
-}
-
-#content {
-  padding-top: 1%;
-  padding-left: 1%;
-  padding-right: 1%;
-  background-color: #ebebeb;
-  min-height: 100vh;
-}
-
-.entry-content a {
-  color: green;
-  text-decoration: underline;
-}
-
-.lastmod {
-  padding-top: 2%;
 }
