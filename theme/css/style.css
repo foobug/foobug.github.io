@@ -21,7 +21,7 @@ a:hover, a:active {
 
 .active a:link, .active a:visited {
   color:#ffffff;
-  background:#363636;
+  /* background:#363636; */
  }
 
 #content {
