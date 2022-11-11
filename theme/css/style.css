@@ -29,7 +29,8 @@ a:hover, a:active {
   padding-left: 1%;
   padding-right: 1%;
   background-color: #ebebeb;
-  min-height: 100vh;
+  min-height: 75vh;
+  margin-top: 5vh;
 }
 
 .entry-content a {
