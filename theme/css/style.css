@@ -21,14 +21,14 @@ a:hover, a:active {
 
 .active a:link, .active a:visited {
   color:#ffffff;
-  /* background:#363636; */
+  background:#363636;
  }
 
 #content {
   padding-top: 1%;
   padding-left: 1%;
   padding-right: 1%;
-  background-color: #ebebeb;
+  /* background-color: #ebebeb; */
   min-height: 75vh;
   margin-top: 5vh;
 }
