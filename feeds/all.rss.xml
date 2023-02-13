@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>foobug.github.com</title><link>https://foobug.github.com/</link><description></description><lastBuildDate>Mon, 13 Feb 2023 17:44:45 +0100</lastBuildDate><item><title>newsletter#001</title><link>https://foobug.github.com/newsletter001.html</link><description>&lt;h2&gt;General Tech&lt;/h2&gt;
+<rss version="2.0"><channel><title>foobug.github.io</title><link>https://foobug.github.io/</link><description></description><lastBuildDate>Mon, 13 Feb 2023 17:44:45 +0100</lastBuildDate><item><title>newsletter#001</title><link>https://foobug.github.io/newsletter001.html</link><description>&lt;h2&gt;General Tech&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://www.backblaze.com/blog/backblaze-drive-stats-for-2022/"&gt;Backblaze&lt;/a&gt; released there harddrive stats for 2022&lt;/p&gt;
@@ -67,4 +67,4 @@
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://fosdem.org/2023/schedule/events/"&gt;Videos from the FOSDEM 2023 Conference&lt;/a&gt; got released - Linux, Networking, Security, Coding &amp;amp; many more interesting topics&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sun, 05 Feb 2023 18:00:00 +0100</pubDate><guid isPermaLink="false">tag:foobug.github.com,2023-02-05:/newsletter001.html</guid><category>Blog</category><category>newsletter</category></item></channel></rss>
+&lt;/ul&gt;</description><pubDate>Sun, 05 Feb 2023 18:00:00 +0100</pubDate><guid isPermaLink="false">tag:foobug.github.io,2023-02-05:/newsletter001.html</guid><category>Blog</category><category>newsletter</category></item></channel></rss>
